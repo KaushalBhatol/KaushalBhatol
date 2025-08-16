@@ -1,12 +1,23 @@
-### Hi there 👋
+# Hi, I’m Kaushal Chaudhary
 
-I'm Kaushal, frontend developer and css lover :heart:.
+Technical professional with more than 2 years of experience in building software, managing infrastructure, and optimizing system performance. I bridge the gap between code and infrastructure, delivering resilient, high‑performing solutions across modern tech stacks.
 
-Check out some of my work :
+## 🚀 What I Do
 
-- [:computer: RandomPasswordGenrator](https://github.com/KaushalBhatol/RandomPasswordGenrator) (Python3-GUI)
-- [:book: Project-AI](https://github.com/KaushalBhatol/Project-AI) (PHP-Site)
-- [:book: amazon_retailer](https://github.com/KaushalBhatol/amazon_retailer) (PHP-Site)
+* **Cloud & On‑Prem:** AWS, Azure, GCP, Proxmox, VMware, LXD
+* **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, CI/CD
+* **Programming & Scripting:** Python, Bash, PowerShell, PHP, React
+* **Monitoring:** Zabbix, Grafana, Prometheus, Opsgenie
+* **Networking & Security:** SDN, VLAN, VPN, Firewall, Zero‑Trust
 
+## 📄 Certifications
 
-📫 Contact me: http://kaushal.iblogger.org/about/
+* Azure Fundamentals (May 2024)
+* Cisco Cybersecurity & Python 3 (Oct 2022)
+* Splunk Fundamentals (Oct 2022)
+* Google Cloud Professional (Compute Engine, Reliability, Core Services)
+
+## 📬 Reach Out
+
+* kaushal@bhatol.com
+* [kaushal.bhatol.com](https://kaushal.bhatol.com)
