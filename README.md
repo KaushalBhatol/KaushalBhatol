@@ -16,8 +16,3 @@ Technical professional with more than 2 years of experience in building softwa
 * Cisco Cybersecurity & Python 3 (Oct 2022)
 * Splunk Fundamentals (Oct 2022)
 * Google Cloud Professional (Compute Engine, Reliability, Core Services)
-
-## 📬 Reach Out
-
-* kaushal@bhatol.com
-* [kaushal.bhatol.com](https://kaushal.bhatol.com)
